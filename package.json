@@ -1,0 +1,15 @@
+{
+  "name": "door-guard",
+  "version": "0.0.0",
+  "description": "Allows user to create invitions with a hash and find invitations that exist using redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Montague Monro",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "redis": "^0.12.1"
+  }
+}
