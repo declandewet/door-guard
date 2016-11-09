@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "redis": "^0.12.1"
+    "redis": "^2.6.3"
   }
 }
